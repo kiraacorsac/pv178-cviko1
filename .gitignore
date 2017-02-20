@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Lab01_Solution/ConsoleIO_01/bin/Debug
+/Lab01_Solution/ConsoleIO_01/obj/Debug
+/Lab01_Solution/UnitTestsDemo_02/obj/Debug
